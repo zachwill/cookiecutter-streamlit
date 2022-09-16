@@ -1,6 +1,5 @@
 {
     "project_name": "Offical Project Name™",
     "repo_name": "repo_name",
-    "description": "A short description of the project",
-    "database": "database_name"
+    "description": "A short description of the project"
 }
